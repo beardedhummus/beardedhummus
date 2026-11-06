@@ -18,7 +18,8 @@ that needed a solution.
 ---
 
 ## 🎛️ Live production & show control
-💾 Windows applications.
+<br>
+💾 Windows applications.<br>
 **[VariABLE OSC](https://github.com/beardedhummus/VariableOSC)**: pulls live values out of Windows apps that have no API by scanning their memory and broadcasts them over OSC. Has a "Make Permanent" wizard that finds pointer paths so variables survive restarts. Made with Companion in mind.
 <br>`C#` `.NET` `WinForms` · *built*
 
