@@ -6,7 +6,7 @@ that needed a solution.
 
 - 🎬 I work in videography, photography, and live production. 
 - 🔭 Right now I'm building **Roebuck**.
-- 🚀 Excited to Launch **Cut The Check**. (see below)
+- 🚀 Excited to Launch **Cut The Check**.
 - 🧠 Learning Typescript for **Companion module development** 
 - 📫 Reach me at info@jameslavranos.com
 
