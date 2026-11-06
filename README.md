@@ -71,7 +71,4 @@ These all run on my own home server behind Cloudflare.
 
 - Working on: **Roebuck**
 - Recently shipped: **[HogOSC]**
-- Writing about: **[latest blog post title](https://blog.jameslavranos.com)**
-
-[Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
-[Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+- Writing about it all @ **[latest blog post title](https://blog.jameslavranos.com)**
