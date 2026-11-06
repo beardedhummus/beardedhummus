@@ -26,7 +26,7 @@ that needed a solution.
 **[HogOSC](https://github.com/beardedhummus/HogOSC)**: sends the active cue name and number from an ETC Hog 4 lighting console out over OSC, including previous/next cue. Made with Companion in mind. Buttons always show current information. It listens passively on the network and never touches the console. 
 <br>`C#` `.NET` `WinForms` `Npcap` · *built: running in live productions* 
 
-🍎 Mac applications.
+🍎 Mac applications.<br>
 **[Broadcast Browser](https://github.com/beardedhummus/Broadcast-Browser)**: a macOS app that turns browser tabs into video sources for broadcast, with output to Blackmagic DeckLink, NDI, Syphon, an HDMI display, or a recording. Supports cropping, an edit mode for the hosted websites, and remote OSC control. 
 <br>`Swift` `SwiftUI` `ScreenCaptureKit` `WebKit` · *built: needs more testing* 
 
