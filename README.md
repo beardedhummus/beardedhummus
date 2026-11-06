@@ -7,7 +7,7 @@ that needed a solution.
 - 🎬 I work in videography, photography, and live production. 
 - 🔭 Right now I'm building **Roebuck**.
 - 🚀 Excited to Launch **Cut The Check**. (see below)
-- 🧠 Learning Typescript for **[Companion module development]** 
+- 🧠 Learning Typescript for **Companion module development** 
 - 📫 Reach me at info@jameslavranos.com
 
 <p>
@@ -40,6 +40,9 @@ that needed a solution.
 
 🕹️ Companion modules.<br>
 - **[BetterOSC](https://github.com/beardedhummus/Better-OSC)**: a replacement for the native Generic OSC module that ships with Companion. Scans a port for incoming OSC. Automatically creates variables for addresses, arguments, and values.
+<br>`JavaScript` `Node.js` · *built: running in live productions*
+
+- **[NUT Module](https://github.com/beardedhummus/nut-module)**: This module connects directly to a UPS via the NUT server (upsd) over TCP. Automatically creates variables for all the upsc information.
 <br>`JavaScript` `Node.js` · *built: running in live productions* 
 
 ## 🖥️ Mac apps
@@ -70,5 +73,5 @@ These all run on my own home server behind Cloudflare.
 ## 📌 Currently
 
 - Working on: **Roebuck**
-- Recently shipped: **[HogOSC]**
+- Recently shipped: **HogOSC**
 - Writing about it all @ **[https://blog.jameslavranos.com](https://blog.jameslavranos.com)**
