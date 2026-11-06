@@ -71,4 +71,4 @@ These all run on my own home server behind Cloudflare.
 
 - Working on: **Roebuck**
 - Recently shipped: **[HogOSC]**
-- Writing about it all @ **[latest blog post title](https://blog.jameslavranos.com)**
+- Writing about it all @ **[https://blog.jameslavranos.com](https://blog.jameslavranos.com)**
